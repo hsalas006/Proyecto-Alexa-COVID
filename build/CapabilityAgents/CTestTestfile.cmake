@@ -1,0 +1,18 @@
+# CMake generated Testfile for 
+# Source directory: /home/hass-usr/2020/TEC/Redes/proyectoAlexa/project-code/source/avs-device-sdk/CapabilityAgents
+# Build directory: /home/hass-usr/2020/TEC/Redes/proyectoAlexa/project-code/build/CapabilityAgents
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("AIP")
+subdirs("Alexa")
+subdirs("ApiGateway")
+subdirs("Equalizer")
+subdirs("ExternalMediaPlayer")
+subdirs("InteractionModel")
+subdirs("PlaybackController")
+subdirs("SoftwareComponentReporter")
+subdirs("SpeakerManager")
+subdirs("SpeechSynthesizer")
+subdirs("System")
+subdirs("TemplateRuntime")
